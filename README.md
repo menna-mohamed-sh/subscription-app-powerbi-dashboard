@@ -4,7 +4,7 @@ An interactive Power BI dashboard that tracks revenue, paying customers, failed 
 
 **All data in this project is simulated.** No real company, customers or transactions are involved.
 
-It is the visual companion to my [SQL retention and pricing analysis](https://github.com/sheha61-boop/subscription-app-sql-analytics), which uses the same dataset.
+It is the visual companion to my [SQL retention and pricing analysis](https://github.com/menna-mohamed-sh/subscription-app-sql-analytics), which uses the same dataset.
 
 ## Preview
 
