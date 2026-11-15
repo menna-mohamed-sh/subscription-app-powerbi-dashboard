@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard that tracks revenue, paying customers, failed charges and retention for a subscription app, with a focus on what happened when the monthly plan price went up in June.
 
+**All data in this project is simulated.** No real company, customers or transactions are involved.
+
 It is the visual companion to my [SQL retention and pricing analysis](https://github.com/sheha61-boop/subscription-app-sql-analytics), which uses the same dataset.
 
 ## Preview
